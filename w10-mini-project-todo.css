@@ -1,0 +1,8 @@
+body{
+    margin-left:120px;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+.strike{
+    text-decoration: line-through;
+}
